@@ -29,6 +29,10 @@ $ npm run node_3
 $ npm run node_4
 $ npm run node_5
 ```
+
+## Config
+Change the values on .env file 
+
 ## Frondend 🐱‍👤
 We are developing the frontned and feel free to contribute to our project.
 
