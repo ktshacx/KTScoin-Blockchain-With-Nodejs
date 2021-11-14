@@ -47,6 +47,7 @@ Change the values on .env file
 
 ## Frondend 🐱‍👤
 We are developing the frontned and feel free to contribute to our project.
+Explorer Frontend - https://github.com/krishtechstudio/KTScoin-Blockchain-With-Nodejs-Explorer
 
 ## Support 😃
 I am working very hard to create this type of cool projects, plz support my channel <br>
