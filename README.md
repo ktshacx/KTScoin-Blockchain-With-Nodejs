@@ -1,4 +1,4 @@
-# KTScoin with Nodejs 
+# KTScoin Blockchain with Nodejs 
 <img src="https://img.shields.io/github/languages/top/krishtechstudio/KTScoin-Blockchain-With-Nodejs?style=flat-square"> <img src="https://img.shields.io/github/license/krishtechstudio/KTScoin-Blockchain-With-Nodejs?logo=MIT&style=flat-square"> <img src="https://img.shields.io/github/stars/krishtechstudio/KTScoin-Blockchain-With-Nodejs?style=flat-square">
 <br>
 **KTScoin** is a blockchain created with NODE JS
@@ -11,8 +11,8 @@ It has too many featues as other commercial blockchain have, like:
 3) No Fees for Admin
 4) Fees deduct from sender
 5) And Many More...
-
-## Api Methods
+ 
+## Api Methods 🚨
 
 1) `/blockchain` - returns full blockchain | GET
 2) `/newkey` - generates wallet keys | GET
@@ -42,7 +42,7 @@ $ npm run node_4
 $ npm run node_5
 ```
 
-## Config
+## Config 📄
 Change the values on .env file 
 
 ## Frondend 🐱‍👤
