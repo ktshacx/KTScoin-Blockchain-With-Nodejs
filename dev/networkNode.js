@@ -321,12 +321,6 @@ app.post('/privatekey/', function(req, res) {
 })
 
 
-// block explorer
-app.get('/block-explorer', function(req, res) {
-	res.sendFile('./block-explorer/index.html', { root: __dirname });
-});
-
-
 
 
 
