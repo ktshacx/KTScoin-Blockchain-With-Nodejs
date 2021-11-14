@@ -46,7 +46,7 @@ $ npm run node_5
 Change the values on .env file 
 
 ## Frondend 🐱‍👤
-We are developing the frontned and feel free to contribute to our project.
+We are developing the frontned and feel free to contribute to our project.<br>
 Explorer Frontend - https://github.com/krishtechstudio/KTScoin-Blockchain-With-Nodejs-Explorer
 
 ## Support 😃
