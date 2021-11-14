@@ -1,5 +1,5 @@
 # KTScoin with Nodejs 
-<img src="https://img.shields.io/github/languages/top/krishtechstudio/KTScoin-Blockchain-With-Nodejs?style=flat-square"> <img src="https://img.shields.io/github/license/krishtechstudio/KTScoin-Blockchain-With-Nodejs?style=flat-square"> <img src="https://img.shields.io/github/stars/krishtechstudio/KTScoin-Blockchain-With-Nodejs?style=flat-square">
+<img src="https://img.shields.io/github/languages/top/krishtechstudio/KTScoin-Blockchain-With-Nodejs?style=flat-square"> <img src="https://img.shields.io/github/license/krishtechstudio/KTScoin-Blockchain-With-Nodejs?logo=MIT&style=flat-square"> <img src="https://img.shields.io/github/stars/krishtechstudio/KTScoin-Blockchain-With-Nodejs?style=flat-square">
 <br>
 **KTScoin** is a blockchain created with NODE JS
 
