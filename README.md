@@ -12,6 +12,18 @@ It has too many featues as other commercial blockchain have, like:
 4) Fees deduct from sender
 5) And Many More...
 
+## Api Methods
+
+1) `/blockchain` - returns full blockchain | GET
+2) `/newkey` - generates wallet keys | GET
+3) `/transaction/broadcast` - creates new transaction | POST
+4) `/mine/:id` - mine block and give miner rewards | GET
+5) `/register-and-broadcast-node` - Registers new node | POST
+6) `/block/:blockHash` - returns block data | GET
+7) `/transaction/:transactionId` - returns transaction data | GET
+8) `/address/:address` - returns address data | GET
+9) `/privatekey/` - returns public key of the private key | POST
+
 ## Installation 🐱‍🏍
 ```
 $ git clone https://github.com/krishtechstudio/KTScoin-Blockchain-With-Nodejs
